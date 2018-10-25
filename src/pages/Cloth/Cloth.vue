@@ -1,7 +1,15 @@
 <template>
+<div>
   <div>
-    <h2>织物</h2>
+    <div>
+      <i class="inc"></i>
+      <div></div>
+      <i></i>
+      <i></i>
+    </div>
   </div>
+</div>
+
 </template>
 <script>
   export default {
